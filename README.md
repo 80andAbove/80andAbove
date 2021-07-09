@@ -7,4 +7,5 @@ Reach me at www.linkedin.com/in/shogo-miyagi/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=80andabove&langs_count=10)](https://github.com/80andabove/github-readme-stats)
 
+[![Shogo's stats](https://github-readme-stats.vercel.app/api/wakatime?username=80andabove)](https://github.com/80andabove/github-readme-stats)
 
