@@ -12,7 +12,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-
+<section style="display:flex" >
 <h4 align="left">Script</h4>
 <p align="left">
     <a href="https://www.python.org" target="_blank">
@@ -22,7 +22,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
     </a>
 </p>
-<h4 align="left">Frame Work</h4>
+<h4 align="left">Framework</h4>
 <p align="left">
     <a href="https://www.djangoproject.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"alt="django" width="40" height="40"/> 
@@ -61,4 +61,4 @@
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
     </a>
 </p>
-
+</section>
