@@ -27,7 +27,7 @@ I'm a full stack web developer who likes to bring ideas to life
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
     </a>
 </p>
-<h4 align="left">Front End</h4>
+<h4 align="left">Frontend</h4>
 <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
