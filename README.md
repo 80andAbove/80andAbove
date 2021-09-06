@@ -10,7 +10,7 @@ I'm a full stack web developer who likes to bring ideas to life
 <h4 align="left">Languages and Tools:</h4>
 
 <section style="display:flex" >
-<h4 align="left">Script</h4>
+<h4 align="left">Scripting Language</h4>
 <p align="left">
     <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
