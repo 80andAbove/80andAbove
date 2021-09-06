@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Shogo</h1>
 I'm a full stack web developer who likes to bring ideas to life
 
+
 - Based in Tokyo, Japan
 - Currently working on: JWPFit
 - Reach me at www.linkedin.com/in/shogo-miyagi/
