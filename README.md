@@ -6,8 +6,6 @@ I'm a full stack web developer who likes to bring ideas to life
 - Currently working on: JWPFit
 - Contact me at shogo.miyagi@protonmail.com
 
-<h4 align="left">Languages and Tools:</h4>
-
 <section style="display:flex" >
 <h4 align="left">Scripting Language</h4>
 <p align="left">
