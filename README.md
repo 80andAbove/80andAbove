@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋 </h1>
+Hi I'm Shogo and I am an aspiring software engineer.
+I am currently learning Ruby on Rails and have created apps using Python and Django. 
+Reach me at www.linkedin.com/in/shogo-miyagi/
 
-I'm an aspiring full stack web developer
 
-
-<h3 align="center">Languages and Tools:</h3>
+<h4 align="center">Languages and Tools:</h4>
 
 <section style="display:flex" >
 <h4 align="left">Script</h4>
