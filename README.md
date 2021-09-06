@@ -1,9 +1,12 @@
-Hi I'm Shogo and I am an aspiring software engineer.
-I am currently learning Ruby on Rails and have created apps using Python and Django. 
-Reach me at www.linkedin.com/in/shogo-miyagi/
+<h1 align="left">Hi 👋, I'm Shogo</h1>
+I'm a full stack web developer who loves to bring ideas to life
+
+- Based in Tokyo, Japan
+- Currently working on: JWPFit
+- Reach me at www.linkedin.com/in/shogo-miyagi/
 
 
-<h4 align="center">Languages and Tools:</h4>
+<h4 align="left">Languages and Tools:</h4>
 
 <section style="display:flex" >
 <h4 align="left">Script</h4>
@@ -21,7 +24,7 @@ Reach me at www.linkedin.com/in/shogo-miyagi/
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"alt="django" width="40" height="40"/> 
     </a>
     <a href="https://rubyonrails.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/iconsrails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
     </a>
 </p>
 <h4 align="left">Front End</h4>
