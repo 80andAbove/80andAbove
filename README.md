@@ -1,6 +1,7 @@
 <h3 align="left">Hi 👋, I'm Shogo</h3>
 I'm a full stack web developer who likes to bring ideas to life
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=80andabove&label=Profile%20views&color=0e75b6&style=flat" alt="80andabove" /> </p>
 
 - Based in Tokyo, Japan
 - Currently working on: JWPFit
