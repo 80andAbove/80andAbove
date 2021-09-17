@@ -7,7 +7,7 @@ I'm a full stack web developer who likes to bring ideas to life
 - Contact me at shogo.miyagi@protonmail.com
 
 <section style="display:flex" >
-<h4 align="left">Scripting Language</h4>
+<h4 align="left">Scripting Languages</h4>
 <p align="left">
     <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -16,7 +16,7 @@ I'm a full stack web developer who likes to bring ideas to life
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
     </a>
 </p>
-<h4 align="left">Framework</h4>
+<h4 align="left">Frameworks</h4>
 <p align="left">
     <a href="https://www.djangoproject.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"alt="django" width="40" height="40"/> 
@@ -40,7 +40,7 @@ I'm a full stack web developer who likes to bring ideas to life
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a>
 </p>
-<h4 align="left">Database</h4>
+<h4 align="left">Databases</h4>
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
