@@ -21,9 +21,6 @@ I'm a full stack web developer who likes to bring ideas to life
     <a href="https://www.djangoproject.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"alt="django" width="40" height="40"/> 
     </a>
-    <a href="https://www.django-rest-framework.org/" target="_blank"> 
-        <img src="https://www.django-rest-framework.org/img/logo.png" alt="django-rest-framework" width="40" height="40"/> 
-    </a>
     <a href="https://rubyonrails.org" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
     </a>
