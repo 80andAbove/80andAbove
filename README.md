@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I'm Shogo</h3>
+<h3 align="left">Hi, I'm Shogo</h3>
 I'm a full stack web developer who likes to bring ideas to life
 <br>
 
