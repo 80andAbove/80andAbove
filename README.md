@@ -1,5 +1,4 @@
 <h3 align="left">Hi, I'm Shogo</h3>
-<br>
 
 - Freelance Web Developer
 - Based in Tokyo, Japan
