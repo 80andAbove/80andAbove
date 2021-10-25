@@ -3,7 +3,7 @@
 - Freelance Web Developer
 - Based in Tokyo, Japan
 - Grew up in 5 different countries
-- Currently working on: JWPFit
+- Currently working on: <a href="www.jwpfit.com" target="_blank">JWPFit</a>
 - Contact me at shogo.miyagi@protonmail.com
 
 <section style="display:flex" >
