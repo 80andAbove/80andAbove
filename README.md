@@ -1,9 +1,8 @@
 <h3 align="left">Hi, I'm Shogo</h3>
 
-- Freelance Web Developer
+- Software Engineer at Tata Consultancy Japan
 - Based in Tokyo, Japan
 - Grew up in 5 different countries
-- Currently working on: <a href="http://jwpfit.com/" target="_blank">JWPFit</a>
 - Contact me at shogo.miyagi@protonmail.com
 
 <section style="display:flex" >
@@ -14,6 +13,9 @@
     </a>
     <a href="https://www.ruby-lang.org/en/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a>
 </p>
 <h4 align="left">Frameworks</h4>
