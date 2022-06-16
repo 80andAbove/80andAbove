@@ -4,7 +4,7 @@
 - Based in Tokyo, Japan
 - Grew up in 5 different countries
 - Contact me at shogo.miyagi@protonmail.com
-
+<!-- 
 <section style="display:flex" >
 <h4 align="left">Scripting Languages</h4>
 <p align="left">
@@ -63,4 +63,4 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a>
 </p>
-</section>
+</section> -->
