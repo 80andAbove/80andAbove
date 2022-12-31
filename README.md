@@ -1,6 +1,6 @@
 <h3 align="left">Hi, I'm Shogo</h3>
 
-- Software Engineer at Tata Consultancy Japan
+- Software Engineer at Tata Consultancy Service Japan
 - Based in Tokyo, Japan
 - Grew up in 5 different countries
 - Contact me at shogo.miyagi@protonmail.com
